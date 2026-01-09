@@ -1,0 +1,7 @@
+{
+  "name": "UmerShare",
+  "description": "A high-performance P2P file transfer application using WebRTC for direct device-to-device communication, featuring Gemini-powered file analysis.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
